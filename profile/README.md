@@ -1,12 +1,16 @@
-## Hi there 👋
+# Welcome to the East Midlands Data Meetup 👋
 
-<!--
+We're a community run Microsoft focused data user group. We provide free training, socialising, networking, recruitment, geeky debate and more on a wide range of data technology topics to anyone who wants to come along to our meetings.
 
-**Here are some ideas to get you started:**
+Our **in-person** events run on the **second Wednesday of every month**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To cover as much of the East Midlands as possible we currently alternate locations between **Nottingham** and **Derby**.
+
+For additional annoucements join our community mailing list here: ()[]bit.ly/45UE6DP
+
+Lastly, please be aware that all our events are covered by a Code of Conduct. This can be found here: bit.ly/EMD-CodeOfConduct
+
+Thank You
+
+East Midlands Data Organisers
+organisers@eastmidlandsdata.com
