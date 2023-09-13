@@ -1,6 +1,6 @@
 # Welcome to the East Midlands Data Meetup 👋
 
-![Header Image](./HeaderImage.png)
+![Header Image](./profile/HeaderImage.png)
 
 MeetUp home page: [https://www.meetup.com/eastmidlandsdata/](https://www.meetup.com/eastmidlandsdata/)
 
